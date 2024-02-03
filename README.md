@@ -32,3 +32,11 @@ Uploading LFS objects: 100% (1/1), 2.6 MB | 0 B/s, done.
 8. Finally! check the git hub repo and file and clone it from other laptop and verify the binary file 
 
 
+Q3. Git Assignment from Hero Vired
+1. Create geometry-calculator branch 
+2. Create new branch feature/circle-area to work on circle of area , stash it and check directory is clean
+3. Create new branch feature/rectangle-area to work on rectangle of area , stash it check directery is clean 
+4. Switch back to feature/circle-area implement the changes and push the changes 
+5. Switch back to rectangle-area implement the changes and push the changes
+6. Create the pull request added reviwer as gkumarswamy@gmail.com
+7. After approved , Finally merged to main 
